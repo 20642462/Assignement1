@@ -1,4 +1,4 @@
-# CSE2WDC Lab 04
+# CSE5006 Simple React Template
 
 Please refer to the PDF available on LMS for lab instructions and exercises.
 
@@ -13,4 +13,6 @@ Configuration files for Docker are in `Dockerfile` and `docker-compose.yml`.
 
 ## Credits
 
-Created by [Aiden Nibali](http://aiden.nibali.org).
+Created by [Aiden Nibali](http://aiden.nibali.org)
+Modified by [Kiki Adhinugraha] 2022
+
