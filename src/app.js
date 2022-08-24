@@ -17,7 +17,7 @@ app.use('/assets', express.static(path.resolve(__dirname, '..', 'dist')));
 
 // Set up the index route
 app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/tictactoe_ver2.html');
+  res.sendFile(__dirname + '/game/tictactoe_ver2.html');
 });
 
 
